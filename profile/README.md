@@ -1,7 +1,7 @@
 # Cataclysmic Studios  
   
 ## About
-Cataclysmic Studios is a development group on Roblox. We make games, services, and more for Roblox.  
+Cataclysmic Studios is a development group on Roblox. We make games, services, and more.  
 We are built on contributors! See [Long Term Contribution](#long-term-contribution) for more info.
 
 ## Contribution
